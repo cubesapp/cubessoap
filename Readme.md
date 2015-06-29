@@ -1,4 +1,4 @@
-# Soap [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url]
+# CubesSoap 
 > A SOAP client and server for node.js.
 
 This module lets you connect to web services using SOAP.  It also provides a server that allows you to run your own SOAP services.
