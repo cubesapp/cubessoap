@@ -441,13 +441,9 @@ namespace prefix is used to identify this Element. This is not much of a problem
 
 ## Contributors
 
- * Author: [Vinay Pulim](https://github.com/vpulim)
+ * CubesApp: team@cubesapp.com
+ * Modified for CubesApp use.
+ * Original Author: [Vinay Pulim](https://github.com/vpulim)
  * Lead Maintainer: [Joe Spencer](https://github.com/jsdevel)
- * [All Contributors](https://github.com/vpulim/node-soap/graphs/contributors)
 
-[downloads-image]: http://img.shields.io/npm/dm/soap.svg
-[npm-url]: https://npmjs.org/package/soap
-[npm-image]: http://img.shields.io/npm/v/soap.svg
 
-[travis-url]: https://travis-ci.org/vpulim/node-soap
-[travis-image]: http://img.shields.io/travis/vpulim/node-soap.svg

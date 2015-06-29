@@ -1,11 +1,11 @@
 {
-  "name": "soap",
-  "version": "0.9.1",
+  "name": "cubessoap",
+  "version": "0.0.1",
   "description": "A minimal node SOAP client",
   "engines": {
     "node": ">=0.8.0"
   },
-  "author": "Vinay Pulim <v@pulim.com>",
+  "author": "Cubes  <team@cubesapp.com>",
   "dependencies": {
     "debug": "~0.7.4",
     "lodash": "~2.4.1",
@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/milewise/node-soap.git"
+    "url": "https://github.com/cubesapp/cubessoap.git"
   },
   "main": "./index.js",
   "directories": {
-    "lib": "./lib"
+    "test": "test"
   },
   "scripts": {
     "pretest": "jshint index.js lib test",
@@ -36,5 +36,9 @@
     "glob": "~3.2.8",
     "should": "~3.3.0",
     "timekeeper": "~0.0.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/cubesapp/cubessoap/issues"
+  },
+  "homepage": "https://github.com/cubesapp/cubessoap"
 }
